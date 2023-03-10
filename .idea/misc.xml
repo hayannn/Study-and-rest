@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/dlgkd/AndroidStudioProjects/myreservation/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1195" />
+        <entry key="..\:/Users/dlgkd/AndroidStudioProjects/myreservation/app/src/main/res/drawable/button_chan5.xml" value="0.16" />
+        <entry key="..\:/Users/dlgkd/AndroidStudioProjects/myreservation/app/src/main/res/drawable/button_chang.xml" value="0.1" />
+        <entry key="..\:/Users/dlgkd/AndroidStudioProjects/myreservation/app/src/main/res/drawable/button_chang2.xml" value="0.16" />
+        <entry key="..\:/Users/dlgkd/AndroidStudioProjects/myreservation/app/src/main/res/drawable/button_chang3.xml" value="0.16" />
+        <entry key="..\:/Users/dlgkd/AndroidStudioProjects/myreservation/app/src/main/res/drawable/button_chang4.xml" value="0.16" />
+        <entry key="..\:/Users/dlgkd/AndroidStudioProjects/myreservation/app/src/main/res/drawable/button_chang5.xml" value="0.16" />
+        <entry key="..\:/Users/dlgkd/AndroidStudioProjects/myreservation/app/src/main/res/drawable/button_chang6.xml" value="0.16" />
+        <entry key="..\:/Users/dlgkd/AndroidStudioProjects/myreservation/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1195" />
+        <entry key="..\:/Users/dlgkd/AndroidStudioProjects/myreservation/app/src/main/res/drawable/studybutton_change.xml" value="0.232" />
+        <entry key="..\:/Users/dlgkd/AndroidStudioProjects/myreservation/app/src/main/res/drawable/studybutton_change10.xml" value="0.232" />
+        <entry key="..\:/Users/dlgkd/AndroidStudioProjects/myreservation/app/src/main/res/drawable/studybutton_change11.xml" value="0.232" />
+        <entry key="..\:/Users/dlgkd/AndroidStudioProjects/myreservation/app/src/main/res/drawable/studybutton_change11xml.xml" value="0.232" />
+        <entry key="..\:/Users/dlgkd/AndroidStudioProjects/myreservation/app/src/main/res/drawable/studybutton_change12.xml" value="0.232" />
+        <entry key="..\:/Users/dlgkd/AndroidStudioProjects/myreservation/app/src/main/res/drawable/studybutton_change13.xml" value="0.232" />
+        <entry key="..\:/Users/dlgkd/AndroidStudioProjects/myreservation/app/src/main/res/drawable/studybutton_change14.xml" value="0.232" />
+        <entry key="..\:/Users/dlgkd/AndroidStudioProjects/myreservation/app/src/main/res/drawable/studybutton_change15.xml" value="0.232" />
+        <entry key="..\:/Users/dlgkd/AndroidStudioProjects/myreservation/app/src/main/res/drawable/studybutton_change2.xml" value="0.232" />
+        <entry key="..\:/Users/dlgkd/AndroidStudioProjects/myreservation/app/src/main/res/drawable/studybutton_change3.xml" value="0.232" />
+        <entry key="..\:/Users/dlgkd/AndroidStudioProjects/myreservation/app/src/main/res/drawable/studybutton_change4.xml" value="0.232" />
+        <entry key="..\:/Users/dlgkd/AndroidStudioProjects/myreservation/app/src/main/res/drawable/studybutton_change5.xml" value="0.232" />
+        <entry key="..\:/Users/dlgkd/AndroidStudioProjects/myreservation/app/src/main/res/drawable/studybutton_change6.xml" value="0.232" />
+        <entry key="..\:/Users/dlgkd/AndroidStudioProjects/myreservation/app/src/main/res/drawable/studybutton_change7.xml" value="0.232" />
+        <entry key="..\:/Users/dlgkd/AndroidStudioProjects/myreservation/app/src/main/res/drawable/studybutton_change8.xml" value="0.232" />
+        <entry key="..\:/Users/dlgkd/AndroidStudioProjects/myreservation/app/src/main/res/drawable/studybutton_change9.xml" value="0.232" />
+        <entry key="..\:/Users/dlgkd/AndroidStudioProjects/myreservation/app/src/main/res/layout/activity_main.xml" value="0.300561797752809" />
+        <entry key="..\:/Users/dlgkd/AndroidStudioProjects/myreservation/app/src/main/res/layout/confirm.xml" value="0.33" />
+        <entry key="..\:/Users/dlgkd/AndroidStudioProjects/myreservation/app/src/main/res/layout/daytime.xml" value="0.264" />
+        <entry key="..\:/Users/dlgkd/AndroidStudioProjects/myreservation/app/src/main/res/layout/dialog1.xml" value="0.1" />
+        <entry key="..\:/Users/dlgkd/AndroidStudioProjects/myreservation/app/src/main/res/layout/end.xml" value="0.33" />
+        <entry key="..\:/Users/dlgkd/AndroidStudioProjects/myreservation/app/src/main/res/layout/fragment_main.xml" value="0.3619791666666667" />
+        <entry key="..\:/Users/dlgkd/AndroidStudioProjects/myreservation/app/src/main/res/layout/plan.xml" value="0.3619791666666667" />
+        <entry key="..\:/Users/dlgkd/AndroidStudioProjects/myreservation/app/src/main/res/layout/restroom.xml" value="0.33" />
+        <entry key="..\:/Users/dlgkd/AndroidStudioProjects/myreservation/app/src/main/res/layout/studyroom.xml" value="0.264" />
+        <entry key="..\:/Users/dlgkd/AndroidStudioProjects/myreservation/app/src/main/res/layout/table.xml" value="0.33" />
+        <entry key="..\:/Users/dlgkd/AndroidStudioProjects/myreservation/app/src/main/res/layout/todo_item.xml" value="0.18489583333333334" />
+        <entry key="..\:/Users/dlgkd/AndroidStudioProjects/myreservation/app/src/main/res/layout/todo_list.xml" value="0.3619791666666667" />
+        <entry key="..\:/Users/dlgkd/AndroidStudioProjects/myreservation/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1195" />
+        <entry key="..\:/Users/dlgkd/AndroidStudioProjects/myreservation/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.11" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

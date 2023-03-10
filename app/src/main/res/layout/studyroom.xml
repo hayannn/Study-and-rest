@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:background="#00FF40"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/BtnReturnFirst"
+            android:layout_width="64dp"
+            android:layout_height="60dp"
+            android:layout_gravity="left"
+            android:backgroundTint="#FFFF00"
+            android:text="홈"
+            android:textColor="#FF000000" />
+
+        <TextView
+            android:layout_width="275dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:background="#00FF40"
+            android:text="                    공부합룸"
+            android:textSize="20dp" />
+
+        <Button
+            android:id="@+id/BtnRest"
+            android:layout_width="74dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="right"
+            android:backgroundTint="#FFFF00"
+            android:text="공부쉽룸"
+            android:textColor="#FF000000" />
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="*홉 버튼 클릭 시 모든 정보가 사라집니다(비회원 모드)\n공부쉽룸 버튼 클릭 시 타이머가 정지됩니다."
+        android:textSize="12dp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:text="입구" />
+
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+
+        <TableRow>
+            <Button
+                android:layout_weight="1"
+                android:id="@+id/BtnrNum0"
+                android:enabled="false"
+                android:text="1"/>
+            <Button
+                android:layout_weight="1"
+                android:enabled="false"
+                android:background="@android:color/transparent"/>
+            <Button
+                android:layout_weight="1"
+                android:id="@+id/BtnrNum1"
+                android:enabled="false"
+                android:text="2"/>
+            <Button
+                android:layout_weight="1"
+                android:enabled="false"
+                android:background="@android:color/transparent"/>
+            <Button
+                android:layout_weight="1"
+                android:id="@+id/BtnrNum2"
+                android:enabled="false"
+                android:text="3"/>
+            <Button
+                android:layout_weight="1"
+                android:enabled="false"
+                android:background="@android:color/transparent"/>
+            <Button
+                android:layout_weight="1"
+                android:id="@+id/BtnrNum3"
+                android:enabled="false"
+                android:text="4"/>
+        </TableRow>
+
+        <TableRow>
+            <Button
+                android:layout_weight="1"
+                android:enabled="false"
+                android:background="@android:color/transparent"/>
+            <Button
+                android:layout_weight="1"
+                android:id="@+id/BtnrNum4"
+                android:enabled="false"
+                android:text="5"/>
+            <Button
+                android:layout_weight="1"
+                android:enabled="false"
+                android:background="@android:color/transparent"/>
+            <Button
+                android:layout_weight="1"
+                android:id="@+id/BtnrNum5"
+                android:enabled="false"
+                android:text="6"/>
+            <Button
+                android:layout_weight="1"
+                android:enabled="false"
+                android:background="@android:color/transparent"/>
+            <Button
+                android:layout_weight="1"
+                android:id="@+id/BtnrNum6"
+                android:enabled="false"
+                android:text="7"/>
+            <Button
+                android:layout_weight="1"
+                android:enabled="false"
+                android:background="@android:color/transparent"/>
+        </TableRow>
+
+        <TableRow>
+            <Button
+                android:layout_weight="1"
+                android:id="@+id/BtnrNum7"
+                android:enabled="false"
+                android:text="8"/>
+            <Button
+                android:layout_weight="1"
+                android:enabled="false"
+                android:background="@android:color/transparent"/>
+            <Button
+                android:layout_weight="1"
+                android:id="@+id/BtnrNum8"
+                android:enabled="false"
+                android:text="9"/>
+            <Button
+                android:layout_weight="1"
+                android:enabled="false"
+                android:background="@android:color/transparent"/>
+            <Button
+                android:layout_weight="1"
+                android:id="@+id/BtnrNum9"
+                android:enabled="false"
+                android:text="10"/>
+            <Button
+                android:layout_weight="1"
+                android:enabled="false"
+                android:background="@android:color/transparent"/>
+
+            <Button
+                android:id="@+id/BtnrNum10"
+                android:enabled="false"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:text="11" />
+        </TableRow>
+
+        <TableRow>
+            <Button
+                android:layout_weight="1"
+                android:enabled="false"
+                android:background="@android:color/transparent"/>
+            <Button
+                android:layout_weight="1"
+                android:id="@+id/BtnrNum11"
+                android:enabled="false"
+                android:text="12"/>
+            <Button
+                android:layout_weight="1"
+                android:enabled="false"
+                android:background="@android:color/transparent"/>
+            <Button
+                android:layout_weight="1"
+                android:id="@+id/BtnrNum12"
+                android:enabled="false"
+                android:text="13"/>
+            <Button
+                android:layout_weight="1"
+                android:enabled="false"
+                android:background="@android:color/transparent"/>
+            <Button
+                android:layout_weight="1"
+                android:id="@+id/BtnrNum13"
+                android:enabled="false"
+                android:text="14"/>
+            <Button
+                android:layout_weight="1"
+                android:enabled="false"
+                android:background="@android:color/transparent"/>
+        </TableRow>
+
+        <TableRow>
+            <Button
+                android:layout_weight="1"
+                android:id="@+id/BtnrNum14"
+                android:enabled="false"
+                android:text="15"/>
+            <Button
+                android:layout_weight="1"
+                android:enabled="false"
+                android:background="@android:color/transparent"/>
+            <Button
+                android:layout_weight="1"
+                android:id="@+id/BtnrNum15"
+                android:enabled="false"
+                android:text="16"/>
+            <Button
+                android:layout_weight="1"
+                android:enabled="false"
+                android:background="@android:color/transparent"/>
+            <Button
+                android:layout_weight="1"
+                android:id="@+id/BtnrNum16"
+                android:enabled="false"
+                android:text="17"/>
+            <Button
+                android:layout_weight="1"
+                android:enabled="false"
+                android:background="@android:color/transparent"/>
+            <Button
+                android:layout_weight="1"
+                android:id="@+id/BtnrNum17"
+                android:enabled="false"
+                android:text="18"/>
+        </TableRow>
+
+        <TableRow>
+            <Button
+                android:layout_weight="1"
+                android:enabled="false"
+                android:background="@android:color/transparent"/>
+            <Button
+                android:layout_weight="1"
+                android:id="@+id/BtnrNum18"
+                android:enabled="false"
+                android:text="19"/>
+            <Button
+                android:layout_weight="1"
+                android:enabled="false"
+                android:background="@android:color/transparent"/>
+            <Button
+                android:layout_weight="1"
+                android:id="@+id/BtnrNum19"
+                android:enabled="false"
+                android:text="20"/>
+            <Button
+                android:layout_weight="1"
+                android:enabled="false"
+                android:background="@android:color/transparent"/>
+            <Button
+                android:layout_weight="1"
+                android:id="@+id/BtnrNum20"
+                android:enabled="false"
+                android:text="21"/>
+            <Button
+                android:layout_weight="1"
+                android:enabled="false"
+                android:background="@android:color/transparent"/>
+        </TableRow>
+
+
+
+
+
+        <TableRow>
+            <Button
+                android:layout_weight="1"
+                android:id="@+id/BtnrNum21"
+                android:enabled="false"
+                android:text="22"/>
+            <Button
+                android:layout_weight="1"
+                android:id="@+id/BtnrNum22"
+                android:enabled="false"
+                android:text="23"/>
+            <Button
+                android:layout_weight="1"
+                android:id="@+id/BtnrNum23"
+                android:enabled="false"
+                android:text="24"/>
+            <Button
+                android:layout_weight="1"
+                android:id="@+id/BtnrNum24"
+                android:enabled="false"
+                android:text="25"/>
+
+        </TableRow>
+
+        <TableRow>
+            <Button
+                android:layout_weight="1"
+                android:id="@+id/BtnrNum25"
+                android:enabled="false"
+                android:text="26"/>
+            <Button
+                android:layout_weight="1"
+                android:id="@+id/BtnrNum26"
+                android:enabled="false"
+                android:text="27"/>
+            <Button
+                android:layout_weight="1"
+                android:id="@+id/BtnrNum27"
+                android:enabled="false"
+                android:text="28"/>
+            <Button
+                android:layout_weight="1"
+                android:id="@+id/BtnrNum28"
+                android:enabled="false"
+                android:text="29"/>
+        </TableRow>
+
+
+
+    </TableLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:text="안쪽" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <Chronometer
+            android:id="@+id/chronometer1"
+            android:layout_width="match_parent"
+            android:layout_height="35dp"
+            android:format="공부시간  %s"
+            android:gravity="center" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="92dp">
+
+        <Button
+            android:id="@+id/btnTimeStart"
+            android:layout_width="0dp"
+            android:layout_height="50dp"
+            android:layout_weight="1"
+            android:backgroundTint="#F7FE2E"
+            android:text="시작"
+            android:textColor="#FF000000" />
+
+            <Button
+                android:id="@+id/btnTimeStop"
+                android:layout_width="0dp"
+                android:layout_height="50dp"
+                android:layout_weight="1"
+                android:backgroundTint="#F7FE2E"
+                android:text="정지"
+                android:textColor="#FF000000" />
+
+            <Button
+                android:id="@+id/btnTimeReset"
+                android:layout_width="0dp"
+                android:layout_height="50dp"
+                android:layout_weight="1"
+                android:backgroundTint="#F7FE2E"
+                android:text="초기화"
+                android:textColor="#FF000000" />
+
+    </LinearLayout>
+</LinearLayout>

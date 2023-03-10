@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="BtnNum15" type="id" />
+    <item name="layoutTodo" type="id" />
+    <item name="checkBox" type="id" />
+    <item name="deleteButton" type="id" />
+</resources>
