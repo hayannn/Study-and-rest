@@ -35,4 +35,7 @@
 ---
 
 ### 프로젝트 영상
-https://youtu.be/4RomOsjFuqY
+https://user-images.githubusercontent.com/102213509/224281172-7de02582-5637-4d28-a08e-aeab85e11e8f.mp4
+
+
+
