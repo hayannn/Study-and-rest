@@ -35,3 +35,4 @@
 ---
 
 ### 프로젝트 영상
+https://youtu.be/4RomOsjFuqY
