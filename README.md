@@ -34,7 +34,7 @@
 ![모바일프로그래밍 텀프로젝트 최종발표_공부합쉬다 - 컴퓨터공학과 202068001 이하얀, 202068019 유다빈_페이지_23](https://user-images.githubusercontent.com/102213509/224248704-0f9ba90f-2871-450b-831f-9376f61f1ecd.jpg)
 ---
 
-### 프로젝트 영상
+### 프로젝트 시연 영상
 https://user-images.githubusercontent.com/102213509/224281172-7de02582-5637-4d28-a08e-aeab85e11e8f.mp4
 
 
